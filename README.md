@@ -4,6 +4,11 @@ A cyberpunk night theme for Claude: very dark blue-violet surfaces, magenta and 
 backdrop of a city skyline in the rain, with flickering neon signs. *Thème ville cyberpunk : nuit, néons magenta et
 cyan, pluie animée.*
 
+![Neon City backdrop: a city skyline at night in the rain, with magenta and cyan neon signs](assets/preview.png)
+
+*The backdrop scene, captured mid-animation. In the app it sits behind the conversation under a frosted glass
+veil, with the rain falling and the neon signs flickering.*
+
 - Drawn in the Claude **desktop and mobile apps** (the terminal and editors draw no theme).
 - Dark mode only.
 - The backdrop is a single SVG animated with CSS: no script, nothing loaded from the network. It stops moving when
