@@ -1,0 +1,14 @@
+{
+  "name": "neon-city",
+  "owner": {
+    "name": "FlorentGru"
+  },
+  "plugins": [
+    {
+      "name": "neon-city",
+      "source": "./",
+      "description": "Cyberpunk night theme for the Claude desktop and mobile apps: magenta and cyan neon, animated rain."
+    }
+  ],
+  "description": "Neon City, a cyberpunk theme for Claude."
+}

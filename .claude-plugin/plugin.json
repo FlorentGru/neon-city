@@ -1,0 +1,11 @@
+{
+  "name": "neon-city",
+  "version": "0.1.0",
+  "description": "Thème ville cyberpunk : nuit, néons magenta et cyan, pluie animée (apps desktop et mobile).",
+  "author": {
+    "name": "FlorentGru",
+    "url": "https://github.com/FlorentGru"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/FlorentGru/neon-city"
+}
